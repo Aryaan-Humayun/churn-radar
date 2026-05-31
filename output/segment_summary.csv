@@ -1,0 +1,3 @@
+segment,customers,avg_monetary,avg_churn_prob,total_revenue_at_risk
+High risk,62164,162.75,1.0,10116664.99
+Loyal,31194,170.08,0.0,215.36

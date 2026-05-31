@@ -1,0 +1,5 @@
+segment,customers,avg_spend,avg_churn_prob,total_revenue_at_risk
+Low risk,75,232.65,0.41,6816.19
+Loyal,80,457.05,0.11,5420.02
+Medium risk,43,142.12,0.65,3985.17
+High risk,2,47.58,0.86,81.03

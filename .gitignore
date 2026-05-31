@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+data/processed/*.parquet
+output/charts/
+test_orders.csv
+test_orders_shopify_style.csv
